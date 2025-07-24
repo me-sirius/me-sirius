@@ -28,7 +28,7 @@ I'm a passionate **software developer** and **web developer**, currently expandi
 
 ## 🌟 Projects to Check Out
 
-### [AlgoViz](https://github.com/me-sirius/CodeMaze)
+### [AlgoViz](https://github.com/Ratan10067/CodeMaze)
 **AlgoViz** is an interactive visualizer for algorithms and data structures.  
 - **Features:**  
   - Visualize sorting, searching, and graph algorithms step-by-step.
@@ -52,7 +52,7 @@ I'm a passionate **software developer** and **web developer**, currently expandi
 
 ## 🔗 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/anup-kr-kgp)
+- [LinkedIn](https://www.linkedin.com/anup-kumarr-kgp)
 - [Codeforces](https://codeforces.com/tin-tin)
 - [Leetcode](https://leetcode.com/me-sirius)
 
