@@ -52,7 +52,7 @@ I'm a passionate **software developer** and **web developer**, currently expandi
 
 ## 🔗 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/anup-kumarr-kgp)
+- [LinkedIn](https://www.linkedin.com/in/anup-kumar-kgp)
 - [Codeforces](https://codeforces.com/tin-tin)
 - [Leetcode](https://leetcode.com/me-sirius)
 
