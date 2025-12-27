@@ -1,70 +1,25 @@
-# 👋 Hello, I'm [me-sirius](https://github.com/me-sirius)!
+# 💫 About Me:
+I’m currently working on building strong foundations in DSA, data science, and AI/ML, along with full-stack projects like a MERN-based job and interview-prep platform.<br><br>I’m looking to collaborate on projects related to AI/ML, data-driven applications, and meaningful software tools that solve real problems.<br><br>I’m looking for help with advanced problem solving, system design, and improving confidence in high-stakes technical and professional communication.<br><br>I’m currently learning machine learning, data analytics, and modern frontend development, while sharpening competitive programming skills in C++.<br><br>Ask me about<br>DSA, C++, AI/ML basics, full-stack development, or preparing for technical interviews.<br><br>Fun fact<br>I like breaking down complex concepts into simple, intuitive explanations once I truly understand them.
 
-## 🚀 About Me
 
-I'm a passionate **software developer** and **web developer**, currently expanding my horizons into **AI/ML**. I thrive on building interactive user experiences and robust backend systems.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_just_anup) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anup-kumar-kgp) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@anupkr913563) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anup_kr_anup) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupkr913563@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=me-sirius&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=me-sirius&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sirius&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💻 Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=me-sirius&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### **Frontend**
-- **React:** Building modular and scalable user interfaces using hooks, context, and advanced state management.
-- **Cytoscape.js:** Crafting complex graph visualizations, ideal for network diagrams, bioinformatics, and data relationships.
-- **D3.js:** Creating custom data visualizations—charts, graphs, and interactive UI elements, bringing data to life.
-- **Other:** Experience with HTML5, CSS3, SASS, and modern UI frameworks.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### **Backend**
-- **Node.js & Express.js:** Building APIs, middleware, RESTful services, and real-time applications.
-- **MongoDB:** Designing flexible, scalable schemas for storing and querying data efficiently.
-- **JWT & bcrypt:** Implementing secure authentication and authorization, including token-based sessions and password hashing.
-- **Webhooks:** Integrating real-time event-driven architectures with third-party services.
-
-### **Algorithms & DSA**
-- Solving algorithmic challenges in arrays, graphs, trees, dynamic programming, and system design.
-- Practicing regularly on platforms like Leetcode and Codeforces.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=me-sirius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 🌟 Projects to Check Out
-
-### [AlgoViz](https://github.com/Ratan10067/CodeMaze)
-**AlgoViz** is an interactive visualizer for algorithms and data structures.  
-- **Features:**  
-  - Visualize sorting, searching, and graph algorithms step-by-step.
-  - User-friendly interface with animated transitions for each operation.
-  - Custom input support to test edge cases and understand algorithm efficiency.
-- **Why it matters:**  
-  - Great for students, educators, and anyone wanting to strengthen their problem-solving skills.
-  - Helps demystify complex algorithms through intuitive visuals.
-
-### [ChromExtension](https://github.com/me-sirius/ChromExtension)
-**ChromExtension** is a productivity-focused Chrome browser extension.  
-- **Features:**  
-  - Automate repetitive tasks, manage bookmarks, and boost browser efficiency.
-  - Customizable tools to personalize your browsing experience.
-  - Integrates with your workflow for seamless productivity.
-- **Why it matters:**  
-  - Saves time, reduces friction, and enhances user control over the browser.
-  - Built with modern JavaScript and Chrome API best practices.
-
----
-
-## 🔗 Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/anup-kumar-kgp)
-- [Codeforces](https://codeforces.com/profile/tin-tin)
-- [Leetcode](https://leetcode.com/u/me-sirius)
-
----
-
-## 🎉 Fun Fact
-
-Did you know? The first computer bug was an actual moth found inside a computer in 1947!
-
----
-
-## 💡 Motto
-
-**Keep Moving and Keep Learning.**  
-Every step forward is a new opportunity to grow!
+[![](https://visitcount.itsvg.in/api?id=me-sirius&icon=10&color=11)](https://visitcount.itsvg.in)
